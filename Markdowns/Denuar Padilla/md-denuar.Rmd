@@ -22,7 +22,6 @@ En este analisis estudiaremos cuales son las principales causas que provocan los
 ## **Variables Capturadas**
 
 ```{r reading_dataset, echo=FALSE}
-#setwd("C:/Users/jklev/Documents/UNAH/Clases/Seminario/cap5/survey analysis/csv/")
 survey <- read.csv("C:/Users/D3nU4R/Desktop/survey analysis/csv/survey_limpio_transfor_EC_nullValues.csv", sep = ",", header = T)
 
 str(survey)
