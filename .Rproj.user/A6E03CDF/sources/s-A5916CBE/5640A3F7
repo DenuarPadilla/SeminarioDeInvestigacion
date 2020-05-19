@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588741014129.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1520168857",
+    "id" : "5640A3F7",
+    "lastKnownWriteTime" : 1588741420,
+    "last_content_update" : 1588741420939,
+    "path" : "~/UNAH/Clases/Seminario/cap 4/survey analysis/Transformaciones - Parciales/transform.v1.R",
+    "project_path" : "Transformaciones - Parciales/transform.v1.R",
+    "properties" : {
+        "cursorPosition" : "448,33",
+        "scrollLine" : "426"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
